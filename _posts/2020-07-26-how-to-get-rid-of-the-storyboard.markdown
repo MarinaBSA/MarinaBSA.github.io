@@ -49,7 +49,7 @@ In the Info.plist were some reminiscents of that file so we deleted that too.
 In `SceneDelegate.swift` we have to declare which ViewController is going to be the root which basically tells where to look 
 for when the app starts.  
 Who is this app's root? Who controls this app's main view? That must be the RootViewController. This is where the marathon
-starts. And since we deleted the storyboard where we usually had a ViewController with an arrow pointing to it, which means "I am Root". (Could not think of link to 'I am Groot' from Guardians of the Galaxy, I'm sorry I failed you.)  
+starts. And since we deleted the storyboard where we usually had a ViewController with an arrow pointing to it, which means "I am Root".  
 We need to determine who is root now.
 
 But before we get there. *What is a scene?*  
