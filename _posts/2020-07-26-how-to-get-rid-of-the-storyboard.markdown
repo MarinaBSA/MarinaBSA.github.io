@@ -139,7 +139,7 @@ We set out rootViewController to be an instance of the ViewController class, whi
 ### Finish
 
 Congrats, you are done.
-Run the app and if should see a cyan background color.
+Run the app and you should see a cyan background color.
 
 Now what?  
 Soon, I'll show you how to change this app's background color by tapping on the screen.
