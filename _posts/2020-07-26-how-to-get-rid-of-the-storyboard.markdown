@@ -14,7 +14,7 @@ categories: swift storyboard
 
 As a beginner in iOS Development learning UIKit, one of the things that get to my nerves is to use the storyboard. It seems like it has its own will, it just does what it wants every now and then.  
 The whole drop and drag of stuff and opening multiple windows to connect your buttons to your code is just not my cup of tea. So I started to look for alternatives.  
-Where can I find information on how to get rid of the  storyboard and do everything programmatically? And guess what, that was hard to find. Most tutorials and books operate using the storyboard. <br/> But I got you, no worries. 
+Where can I find information on create apps without the storyboard and do everything programmatically? And guess what, that was hard to find. Most tutorials and books operate using the storyboard. <br/> But I got you, no worries. 
 
 [I can't believe you are still talking, show me the code.](#code)
 #### What are we going to do?
