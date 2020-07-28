@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "show_excerpts:"
   Brazilian Computer Science student based in Berlin. 
   Interested in Mobile Development, focus on iOS because Android Studio makes my laptop sound like it's gonna take-off and fly.
   Learning and sharing, always.
-
+url: "https://marinabsa.github.io"
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -61,7 +61,15 @@ defaults:
     values:
       image: true
 
+  # _posts
+  - scope:
+    path: ""
+    type: _posts
+    values:
+        noindex: false
+
 
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-sitemap
