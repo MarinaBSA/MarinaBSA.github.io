@@ -61,14 +61,6 @@ defaults:
     values:
       image: true
 
-  # _posts
-  - scope:
-    path: ""
-    type: _posts
-    values:
-        noindex: false
-
-
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
