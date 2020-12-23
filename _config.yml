@@ -1,6 +1,6 @@
-title: Marina Santana
+title: Marina 
 author:
-  name: Marina Santana
+  name: Marina 
   #email: marinacompsci@outlook.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Brazilian Computer Science student based in Berlin. 
@@ -27,7 +27,7 @@ minima:
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UCDlRMs4aucAZHqHg-ybGeYw
-    # youtube_channel_name: CloudCannon
+    youtube_channel_name: marinacompsci
     # telegram: jekyll
     # googleplus: +jekyll
     # microdotblog: jekyll
