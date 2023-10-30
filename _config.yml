@@ -3,9 +3,7 @@ author:
   name: Marina 
   #email: marinacompsci@outlook.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Brazilian Computer Science student based in Berlin. 
-  Interested in Mobile Development, focus on iOS because Android Studio makes my laptop sound like it's gonna take-off and fly.
-  Learning and sharing, always.
+  iOS & Web Development
 url: "https://marinacompsci.github.io"
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -16,7 +14,7 @@ minima:
   date_format: "%b %-d, %Y"
   # generate social links in footer
   social_links:
-    twitter: Marinacompsci
+    # twitter: Marinacompsci
     github:  Marinacompsci
     #devto: jekyll
     #dribbble: jekyll
@@ -26,8 +24,8 @@ minima:
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
-    youtube_channel: UC0rxutUZmYp3ThQGsGg7Hgw
-    youtube_channel_name: marinacompsci
+    # youtube_channel: UC0rxutUZmYp3ThQGsGg7Hgw
+    # youtube_channel_name: marinacompsci
     # telegram: jekyll
     # googleplus: +jekyll
     # microdotblog: jekyll
